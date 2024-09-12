@@ -28,7 +28,9 @@ News
 - September 2024
   -  I will be attending Midwest Computer Vision workshop.
 - July 2024
-  - A arxiv pre-print paper is available [CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs](https://compbench.github.io/)  
+  - A arxiv pre-print paper is available [CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs](https://compbench.github.io/)
+- April 2024
+  - I will be attending the [Imageomics All Hands Meeting](https://imageomics.osu.edu/allhands) to present a poster 
 - February 2024
   - A paper was accepted in [Imageomics: Discovering Biological Knowledge from Images using AI](https://aaai.org/aaai-24-conference/aaai-24-workshop-list/#ws21) in AAAI 2024! I also gave a talk about our work. 
 - January, 2024
