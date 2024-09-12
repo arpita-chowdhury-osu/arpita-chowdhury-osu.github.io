@@ -21,6 +21,8 @@ Application wise,
 - 🦋 I am doing research in a wonderful team of [Imageomics](https://imageomics.osu.edu/) where I work on fine-grained classification and trait discovery. 
 - 🩺 I am also working with [Somashekar Krishna](https://scholar.google.com/citations?hl=en&user=lW7g3OEAAAAJ) from [The Ohio State University Medical Center](https://wexnermedical.osu.edu/) on pancreatic cancer diagonosis from video.
 
+<span style="color:red">I am actively looking for summer-2025 internship!</span>
+
 News
 ======
 1. ...
