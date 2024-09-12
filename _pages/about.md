@@ -25,7 +25,14 @@ Application wise,
 
 News
 ======
-1. ...
+- September 2024
+  -  I will be attending Midwest Computer Vision workshop.
+- July 2024
+  - A arxiv pre-print paper is available [CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs](https://compbench.github.io/)  
+- February 2024
+  - A paper was accepted in [Imageomics: Discovering Biological Knowledge from Images using AI](https://aaai.org/aaai-24-conference/aaai-24-workshop-list/#ws21) in AAAI 2024! I also gave a talk about our work. 
+- January, 2024
+  - [A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis](https://arxiv.org/abs/2311.04157) was accepted at [ICLR](https://iclr.cc/) 2024!
 
 
 Contact
