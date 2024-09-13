@@ -10,8 +10,8 @@ redirect_from:
 🏫 I am a Ph.D. Student in the Computer Science and Engineering Department at [The Ohio State University](https://www.osu.edu/), advised by [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). 
 
 Currently, My research interests are in
-- Vision Backbones and Feature Extraction
 - Transfer Learning
+- In-Context Learning
 - Neural Network Interpretability
 - Model Merging
 
