@@ -4,7 +4,7 @@ title: "Industry Experience"
 permalink: /experience/
 author_profile: true
 ---
-# Professional Experience
+
 - <b>Backend Software Engineer</b>, Full-time
     - [Samsung Research and Development Institute](https://research.samsung.com/srbd), Bangladesh
     - January 2019 to August 2019

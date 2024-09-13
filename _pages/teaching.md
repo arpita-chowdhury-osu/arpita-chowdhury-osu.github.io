@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching Experience
 
 I loved sharing knowledge and helping students learn. Here are some of the courses I have taught.
 
