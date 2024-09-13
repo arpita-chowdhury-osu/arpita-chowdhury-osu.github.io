@@ -9,6 +9,8 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
 
 
 ## Published Work
+---
+
 ![Image Caption](../images/teaser.png)
 
 ### <b>[INTR: A Simple Interpretable Transformer for Fine-grained Image Classification and Analysis](https://arxiv.org/pdf/2311.04157)</b>
@@ -19,14 +21,16 @@ Charles Stewart, Tanya Berger-Wolf, Yu Su, Wei-Lun Chao
 
 *The Twelfth International Conference on Learning Representations, 2024 (ICLR 2024)*
 
+---
 ## Under Review 
+---
 <i> \* == equal contribution </i>
 
 ![Image Caption](../images/htrans.png)
 
 ### <b>[Fine-Tuning is Fine, if Calibrated]()</b>
 
-Zheda Mai*, <b>Arpita Chowdhury*</b>, Ping Zhang*, Cheng-Hao Tu, Hong-You Chen, Vardaan Pahuja, Tanya Berger-Wolf, Song Gao, Charles Steward, Yu Su, Wei-Lun Cha
+Zheda Mai\*, <b>Arpita Chowdhury*</b>, Ping Zhang\*, Cheng-Hao Tu, Hong-You Chen, Vardaan Pahuja, Tanya Berger-Wolf, Song Gao, Charles Steward, Yu Su, Wei-Lun Cha
 
 *2024*
 
