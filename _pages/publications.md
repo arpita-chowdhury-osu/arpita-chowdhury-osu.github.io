@@ -11,7 +11,7 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
 ## Published Work
 ---
 
-![Image Caption](../images/teaser.png)
+<img src="../images/teaser.png" alt="Image Caption" width="50%">
 
 ### <b>[INTR: A Simple Interpretable Transformer for Fine-grained Image Classification and Analysis](https://arxiv.org/pdf/2311.04157)</b>
 
@@ -26,7 +26,7 @@ Charles Stewart, Tanya Berger-Wolf, Yu Su, Wei-Lun Chao
 ---
 <i> \* == equal contribution </i>
 
-![Image Caption](../images/htrans.png)
+<img src="../images/htrans.png" alt="Image Caption" width="50%">
 
 ### <b>[Fine-Tuning is Fine, if Calibrated]()</b>
 
@@ -35,7 +35,7 @@ Zheda Mai\*, <b>Arpita Chowdhury*</b>, Ping Zhang\*, Cheng-Hao Tu, Hong-You Chen
 *2024*
 
 ---
-![Image Caption](../images/compbench.png)
+<img src="../images/compbench.png" alt="Image Caption" width="70%">
 
 ### <b>[CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs](https://compbench.github.io/)</b>
 
