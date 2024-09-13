@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Industry Experience"
+permalink: /experience/
+author_profile: true
+---
+# Professional Experience
+- <b>Backend Software Engineer</b>, Full-time
+    - [Samsung Research and Development Institute](https://research.samsung.com/srbd), Bangladesh
+    - January 2019 to August 2019
+        - <b>Led the architecture, deployment, and ongoing maintenance</b> of robust databases using Node.js and SQL, driving efficiency across multiple projects.
+        - Partnered closely with frontend teams to translate requirements into technical solutions, delivering demos to showcase project advancements.
