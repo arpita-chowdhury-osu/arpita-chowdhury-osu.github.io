@@ -9,7 +9,7 @@ redirect_from:
 
 🏫 I am a <b>Ph.D. Student</b> in the Computer Science and Engineering Department at <b>[The Ohio State University](https://www.osu.edu/)</b>, advised by <b>[Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao)</b>. 
 
-Currently, My research interests lies in <b>machine learning</b> and <b>computer vision</b>. Specifically,
+My research interests lies in <b>machine learning</b> and <b>computer vision</b>. Specifically,
 - Transfer Learning
 - In-Context Learning
 - Neural Network Interpretability
