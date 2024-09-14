@@ -7,19 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-🏫 I am a Ph.D. Student in the Computer Science and Engineering Department at [The Ohio State University](https://www.osu.edu/), advised by [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). 
+🏫 I am a <b>Ph.D. Student</b> in the Computer Science and Engineering Department at <b>[The Ohio State University](https://www.osu.edu/)</b>, advised by <b>[Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao)</b>. 
 
-Currently, My research interests are in
+Currently, My research interests lies in <b>machine learning</b> and <b>computer vision</b>. Specifically,
 - Transfer Learning
 - In-Context Learning
 - Neural Network Interpretability
 - Model Merging
 
-Previously, I received my B.Sc. degree in Software Engineering from IIT in [University of Dhaka](http://www.iit.du.ac.bd/). I also had a wonderful time working as a backend engineer in [Samsung R&D Institute](https://research.samsung.com/srbd)
+Previously, I received my B.Sc. degree in Software Engineering from IIT in [University of Dhaka](http://www.iit.du.ac.bd/). I also had a wonderful time working as a backend engineer in <b>[Samsung R&D Institute](https://research.samsung.com/srbd)</b>
+
+---
 
 Application wise, 
-- 🦋 I am doing research in a wonderful team of [Imageomics](https://imageomics.osu.edu/) where I work on fine-grained classification and trait discovery. 
-- 🩺 I am also working with [Somashekar Krishna](https://scholar.google.com/citations?hl=en&user=lW7g3OEAAAAJ) from [The Ohio State University Medical Center](https://wexnermedical.osu.edu/) on pancreatic cancer diagonosis from video.
+- 🦋 I am doing research in a wonderful team of <b>[Imageomics](https://imageomics.osu.edu/)</b> where I work on <b>fine-grained classification</b>  and trait discovery. 
+- 🩺 I am also working with [Somashekar Krishna](https://scholar.google.com/citations?hl=en&user=lW7g3OEAAAAJ) from <b>[The Ohio State University Medical Center](https://wexnermedical.osu.edu/)</b> on <b>pancreatic cancer diagonosis from video</b> .
 
 <span style="color:red">I am actively looking for summer-2025 internship!</span>
 
