@@ -28,7 +28,8 @@ Application wise,
 News
 ======
 - September 2024
-  -  I will be attending Midwest Computer Vision workshop.
+  -  My Paper [Fine tuning is fine if calibrated](https://www.arxiv.org/pdf/2409.16223) has been accepted in NeurIPS 2024!
+  -  Our Benchmark [CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs](https://compbench.github.io/) is accepted in NeurIPS 2024 Database Track! 
 - July 2024
   - A arxiv pre-print paper is available [CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs](https://compbench.github.io/)
 - April 2024
