@@ -13,7 +13,7 @@ author_profile: true
      
 - <b>Software Engineer</b>, Intern
     - [Samsung Research and Development Institute](https://research.samsung.com/srbd), Bangladesh
-    - January 2018 to August 2018
+    - January 2018 to June 2018
         - <b>Engineered a secure, robust SQL Server database engine</b> with Node.js and developed an Android P2P chat app featuring movement-based gesture detection.
         - Gained in-depth knowledge of Agile software development processes through practical, hands-on experience.
 
