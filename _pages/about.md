@@ -12,8 +12,7 @@ redirect_from:
 My research interests lies in <b>machine learning</b> and <b>computer vision</b>. Specifically,
 - Transfer Learning
 - In-Context Learning
-- Neural Network Interpretability
-- Model Merging
+- Neural Network Interpretability/ Explainable AI
 
 Previously, I received my B.Sc. degree in Software Engineering from IIT in [University of Dhaka](http://www.iit.du.ac.bd/). I also had a wonderful time working as a backend engineer in <b>[Samsung R&D Institute](https://research.samsung.com/srbd)</b>
 
