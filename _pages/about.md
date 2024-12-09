@@ -11,7 +11,7 @@ redirect_from:
 
 My research interests lies in <b>machine learning</b> and <b>computer vision</b>. Specifically,
 - Transfer Learning
-- In-Context Learning
+- Multi-Modal Learning
 - Neural Network Interpretability/ Explainable AI
 
 Previously, I received my B.Sc. degree in Software Engineering from IIT in [University of Dhaka](http://www.iit.du.ac.bd/). I also had a wonderful time working as a backend engineer in <b>[Samsung R&D Institute](https://research.samsung.com/srbd)</b>
@@ -38,6 +38,9 @@ News
 - January, 2024
   - [A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis](https://arxiv.org/abs/2311.04157) was accepted at [ICLR](https://iclr.cc/) 2024!
 
+Service
+======
+- Conference Reviewer: CVPR 2025
 
 Contact
 ------
