@@ -24,6 +24,10 @@ Application wise,
 
 <span style="color:red">I am actively looking for summer-2025 internship!</span>
 
+Service
+======
+- Conference Reviewer: CVPR 2025, AAAI 2025
+- 
 News
 ======
 - September 2024
@@ -37,10 +41,6 @@ News
   - A paper was accepted in [Imageomics: Discovering Biological Knowledge from Images using AI](https://aaai.org/aaai-24-conference/aaai-24-workshop-list/#ws21) in AAAI 2024! I also gave a talk about our work. 
 - January, 2024
   - [A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis](https://arxiv.org/abs/2311.04157) was accepted at [ICLR](https://iclr.cc/) 2024!
-
-Service
-======
-- Conference Reviewer: CVPR 2025
 
 Contact
 ------
