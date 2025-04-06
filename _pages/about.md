@@ -31,15 +31,15 @@ Service
 News
 ======
 - March 2025
-  -   My Paper [Prompt-CAM: Making Vision Transformers Interpretable for Fine-Grained Analysis](https://arxiv.org/pdf/2501.09333) got accepted in CVPR 2025! :tada:
-  -   Our Paper [Finer-CAM: Spotting the Difference Reveals Finer Details for Visual Explanation](https://arxiv.org/pdf/2501.11309) got accepted in CVPR 2025 as well! :tada:
+  -   My Paper [Prompt-CAM: Making Vision Transformers Interpretable for Fine-Grained Analysis](https://arxiv.org/pdf/2501.09333) got accepted in CVPR 2025! 🎉
+  -   Our Paper [Finer-CAM: Spotting the Difference Reveals Finer Details for Visual Explanation](https://arxiv.org/pdf/2501.11309) got accepted in CVPR 2025 as well! 🎉
 - January 2025
   -  Arxiv pre-print is available of our paper [Prompt-CAM: Making Vision Transformers Interpretable for Fine-Grained Analysis](https://arxiv.org/pdf/2501.09333)!
   -  Arxiv pre-print is available of our paper [Finer-CAM: Spotting the Difference Reveals Finer Details for Visual Explanation](https://arxiv.org/pdf/2501.11309)!
-  -  Arxiv pre-print is available of our paper [Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation](https://arxiv.org/pdf/2501.11309)!(https://arxiv.org/pdf/2501.06749))!
+  -  Arxiv pre-print is available of our paper [Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation](https://arxiv.org/pdf/2501.06749))!
 - September 2024
-  -  My Paper [Fine tuning is fine if calibrated](https://www.arxiv.org/pdf/2409.16223) has been accepted in NeurIPS 2024! :tada:
-  -  Our Benchmark [CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs](https://compbench.github.io/) is accepted in NeurIPS 2024 Database Track! :tada:
+  -  My Paper [Fine tuning is fine if calibrated](https://www.arxiv.org/pdf/2409.16223) has been accepted in NeurIPS 2024!  🎉
+  -  Our Benchmark [CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs](https://compbench.github.io/) is accepted in NeurIPS 2024 Database Track!  🎉
 - July 2024
   - A arxiv pre-print paper is available [CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs](https://compbench.github.io/)
 - April 2024
@@ -47,7 +47,7 @@ News
 - February 2024
   - A paper was accepted in [Imageomics: Discovering Biological Knowledge from Images using AI](https://aaai.org/aaai-24-conference/aaai-24-workshop-list/#ws21) in AAAI 2024! I also gave a talk about our work. 
 - January, 2024
-  - [A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis](https://arxiv.org/abs/2311.04157) was accepted at [ICLR](https://iclr.cc/) 2024! :tada:
+  - [A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis](https://arxiv.org/abs/2311.04157) was accepted at [ICLR](https://iclr.cc/) 2024!  🎉
 
 Contact
 ------
