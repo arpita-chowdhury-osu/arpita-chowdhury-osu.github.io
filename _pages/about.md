@@ -22,11 +22,12 @@ Application wise,
 - 🦋 I am doing research in a wonderful team of <b>[Imageomics](https://imageomics.osu.edu/)</b> where I work on <b>fine-grained classification</b>  and trait discovery. 
 - 🩺 I am also working with [Somashekar Krishna](https://scholar.google.com/citations?hl=en&user=lW7g3OEAAAAJ) from <b>[The Ohio State University Medical Center](https://wexnermedical.osu.edu/)</b> on <b>pancreatic cancer diagonosis from video</b> .
 
-<span style="color:red">I am actively looking for summer-2025 internship!</span>
+<span style="color:red">I am actively looking for summer-2026 internship!</span>
 
 Service
 ======
 - Conference Reviewer: CVPR 2025, AAAI 2025, ICCV 2025
+- Area Chair: NeurIPS Imageomics Workshop 2025
   
 News
 ======
