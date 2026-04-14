@@ -1,3 +1,24 @@
 <!-- start custom footer snippets -->
 <a href="/sitemap/">Sitemap</a>
+
+<script>
+(function () {
+  var path = window.location.pathname;
+  if (path !== '/' && path !== '/about/' && path !== '/about.html') return;
+
+  var h1 = document.querySelector('h1.page__title');
+  if (!h1) return;
+
+  var text = h1.textContent;
+  h1.textContent = '';
+
+  text.split('').forEach(function (char, i) {
+    var span = document.createElement('span');
+    span.className = 'title-letter';
+    span.textContent = char === ' ' ? '\u00A0' : char;
+    span.style.animationDelay = (i * 0.055) + 's';
+    h1.appendChild(span);
+  });
+})();
+</script>
 <!-- end custom footer snippets -->
