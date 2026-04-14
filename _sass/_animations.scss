@@ -19,20 +19,3 @@
     opacity: 1;
   }
 }
-
-@keyframes letter-pop {
-  0% {
-    opacity: 0;
-    transform: translateY(-12px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.title-letter {
-  display: inline-block;
-  opacity: 0;
-  animation: letter-pop 0.25s ease forwards;
-}

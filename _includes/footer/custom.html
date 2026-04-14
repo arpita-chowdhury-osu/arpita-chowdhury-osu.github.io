@@ -9,16 +9,32 @@
   var h1 = document.querySelector('h1.page__title');
   if (!h1) return;
 
-  var text = h1.textContent;
-  h1.textContent = '';
+  var text = h1.textContent.trim();
+  var typeDelay = 80;   // ms per letter
+  var pauseAfter = 1800; // ms to pause when fully typed
+  var eraseDelay = 40;  // ms per letter when erasing
 
-  text.split('').forEach(function (char, i) {
-    var span = document.createElement('span');
-    span.className = 'title-letter';
-    span.textContent = char === ' ' ? '\u00A0' : char;
-    span.style.animationDelay = (i * 0.055) + 's';
-    h1.appendChild(span);
-  });
+  function type(i) {
+    h1.textContent = text.slice(0, i);
+    if (i < text.length) {
+      setTimeout(function () { type(i + 1); }, typeDelay);
+    } else {
+      setTimeout(erase, pauseAfter);
+    }
+  }
+
+  function erase() {
+    var current = h1.textContent;
+    if (current.length > 0) {
+      h1.textContent = current.slice(0, -1);
+      setTimeout(erase, eraseDelay);
+    } else {
+      setTimeout(function () { type(1); }, 400);
+    }
+  }
+
+  h1.textContent = '';
+  setTimeout(function () { type(1); }, 300);
 })();
 </script>
 <!-- end custom footer snippets -->
