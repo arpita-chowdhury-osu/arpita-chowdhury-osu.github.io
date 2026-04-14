@@ -4,6 +4,10 @@ title: "Industry Experience"
 permalink: /experience/
 author_profile: true
 ---
+- <b>Summer Research Intern</b>, Full-time
+    - [Qualcomm](https://www.qualcomm.com/), San Diego
+    - May 2025 to August 2025
+        - Worked on Multimodal OCR Grounding in Autodrive and natural scene Images under [Shweta Mahajan](https://scholar.google.com/citations?hl=en&user=DUKzkPMAAAAJ&view_op=list_works&sortby=pubdate) And [Munawar Hayat](https://scholar.google.com/citations?hl=en&user=Mx8MbWYAAAAJ). 
 
 - <b>Backend Software Engineer</b>, Full-time
     - [Samsung Research and Development Institute](https://research.samsung.com/srbd), Bangladesh
